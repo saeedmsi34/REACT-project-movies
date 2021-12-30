@@ -1,0 +1,46 @@
+*{
+    z-index: 9999;
+    box-sizing: border-box;
+   
+}
+
+    
+
+.formItem{
+    width: 100%;
+    height:88vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+   
+ 
+}
+.cont{
+    background-image: url(/src/componets/img/soka1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  
+}
+.box{
+    
+    display: block;
+}
+
+.form{
+
+    width: 400px;
+    height: 450px;
+    border-radius:25px;
+    background-color: rgba(0,0,0, 0.5); 
+    /* background-image: url(/src/componets/img/260553117_499886311058569_4230912071737485474_n.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1px;
+    
+   
+}
